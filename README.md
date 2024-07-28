@@ -1,4 +1,4 @@
-Welcome to my profile! I’m Jade
+## Welcome to my profile! I’m Jade
 
 I am currently a student working on my Engineering Associates. I love working on hardware and the stuff that makes the hardware work
 
